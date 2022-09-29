@@ -32,3 +32,5 @@ Afterward, I introduce the performance of each of the categorical variables one 
 ![image](https://user-images.githubusercontent.com/7541585/193127426-dc8c5f46-971f-44ef-a5b7-b4601b4d7769.png)
 
 ## Home possessions vs. Score
+
+![image](https://user-images.githubusercontent.com/7541585/193128370-77da5824-6187-4e5f-85de-f7de65c2acbf.png)
