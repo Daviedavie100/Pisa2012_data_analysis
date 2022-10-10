@@ -31,6 +31,26 @@ Supplement statistics with visualizations to build understanding of data.
 Choose appropriate plots, limits, transformations, and aesthetics to explore a dataset, allowing you to understand distributions of variables and relationships between features.
 Use design principles to create effective visualizations for communicating findings to an audience.
 
+## Part 1 - Exploratory Data Analysis
+
+In this first part, you will conduct an exploratory data analysis on a dataset of your choice. Use Python data science and data visualization libraries to explore the dataset’s variables and understand the data’s structure, oddities, patterns, and relationships.
+
+The analysis in this part should be structured, going from simple univariate relationships to multivariate relationships, but it does not need to be clean or perfect. There is no single answer that needs to come out of a given dataset. This part of the project is your opportunity to ask questions about the data and make your discoveries. It’s essential to keep in mind that sometimes exploration can lead to dead ends and that it can take multiple steps to dig down to what you’re genuinely looking for. Be patient with your steps, document your work carefully, and be thorough in the perspective that you choose to take with your dataset.
+
+## Explore your Data
+
+Start with the exploration_template.ipynb template file and perform the following tasks:
+
+Introduction - Introduce the dataset briefly.
+
+Preliminary Wrangling - To understand the data structure and brainstorm some more questions, conduct preliminary data wrangling, such as changing data types of specific columns, or make sure you don't have too many missing values. At the end of this section, you will record which features of the datasets you are interested in investigating and which features will help support that investigation.
+Tip: Use the ""Question-Visualization-Observations" framework. This framework involves asking a question from the data, creating a visualization to find answers, and then recording observations.
+
+Univariate, Bivariate, and Multivariate Data Exploration - Systematically explore the data starting with Univariate, and moving on to Bivariate and Multivariate explorations. Make sure to document the flow of exploration in the markdown cells. You can use the Question-Visualization-Observations framework repeatedly to explore as many relationships as you want. At the end of each data exploration section, you will deduce some inferences by answering questions given in the template.
+
+
+
+
 ## Dataset
 
 The data, which is a csv file is contained in a compressed zip file. The csv file is 2.75GB when extracted. It contains data from 485490 sampled students with 636 features. The dataset contains the results from mathematics, science, readings, and financial literacy examinations as well as students' age, country of residence, family possessions, school, and home ICT facilities, first language, education level of the father and mother, occupations, and students' interests and motivations. The dataset can be found in the Udacity servers [here](https://s3.amazonaws.com/udacity-hosted-downloads/ud507/pisa2012.csv.zip), with feature documentation available [here](https://s3.amazonaws.com/udacity-hosted-downloads/ud507/pisadict2012.csv). Feature documentation, named pisadict2012.csv is 35.4kB containing 636 coded column names and their descriptions.
