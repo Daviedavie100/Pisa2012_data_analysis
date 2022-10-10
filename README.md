@@ -48,8 +48,31 @@ Tip: Use the ""Question-Visualization-Observations" framework. This framework in
 
 Univariate, Bivariate, and Multivariate Data Exploration - Systematically explore the data starting with Univariate, and moving on to Bivariate and Multivariate explorations. Make sure to document the flow of exploration in the markdown cells. You can use the Question-Visualization-Observations framework repeatedly to explore as many relationships as you want. At the end of each data exploration section, you will deduce some inferences by answering questions given in the template.
 
+Part 2 - Explanatory Data Visualization
+2.1. Update the README.md
+As you complete the part I of the project, document your findings in a the README.md file available in the template. Particularly, update these sections in the README.md file:
 
+Dataset - Introduce your dataset and document its source. Summarise the steps you took in your data exploration.
 
+Summary of Findings - Summarise your data exploration findings and reflect on the steps you took in your data exploration. Mention whether you plan to bring them into your explanatory presentation or not.
+
+Key Insights for Presentation - Write about why/how you chose certain findings over others to put in your explanatory analysis. Highlight the key insights that you want to convey in your explanatory report as well as any changes to visualizations, or note new visualizations that will be created to bridge between your insights.
+
+2.2. Generate Explanatory Data Visualizations
+Generate explanatory data visualizations to tell a story about the data you explored. Open the Part_II_slide_deck_template.ipynb template notebook file and finish these tasks:
+
+Add a summary of key insights at the start of the notebook, just as you added in the README.md. This will help your notebook to stay aligned to the key insights you want to include in your slide deck.
+Use code that you used in your exploration phase to generate selective and polished plots.
+Make sure that you pay attention to aspects of design integrity in your revisions. Use appropriate plot types, transformations, and encoding. All plots in the presentation should have a title, labeled axes (including units, if any), legend, scale, ticks, and optionally grid in the plot.
+You need to provide at least 3 visualizations to convey key insights, along with descriptive comments which accurately depict their purpose.
+2.3. Create Slide Deck
+Now it's time to create a slide deck by converting the notebook file. You need to prepare the notebook for conversion using the steps below:
+
+Add Cell Toolbar - Add a specific Cell Toolbar to each cell in your notebook. To do this, select a cell and click on View > Cell Toolbar > Slideshow.
+
+Choose Slide Type - Assign each cell a Slide Type. Choose Slide for the markdown cells that you want to appear in the slide show, for example, the cells that describe your visualizations. For the code cells that display the visualization, you can choose Sub-Slide. You can choose Skip for the other code cells that don't display visualizations and are not crucial to the presentation.
+
+Convert - Once you're ready to generate your presentation, use nbconvert to export the notebook and set up a server for the slides. In the last code cell, use the following command:
 
 ## Dataset
 
