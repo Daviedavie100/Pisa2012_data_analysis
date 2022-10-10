@@ -48,7 +48,8 @@ Tip: Use the ""Question-Visualization-Observations" framework. This framework in
 
 Univariate, Bivariate, and Multivariate Data Exploration - Systematically explore the data starting with Univariate, and moving on to Bivariate and Multivariate explorations. Make sure to document the flow of exploration in the markdown cells. You can use the Question-Visualization-Observations framework repeatedly to explore as many relationships as you want. At the end of each data exploration section, you will deduce some inferences by answering questions given in the template.
 
-Part 2 - Explanatory Data Visualization
+## Part 2 - Explanatory Data Visualization
+
 2.1. Update the README.md
 As you complete the part I of the project, document your findings in a the README.md file available in the template. Particularly, update these sections in the README.md file:
 
@@ -59,6 +60,7 @@ Summary of Findings - Summarise your data exploration findings and reflect on th
 Key Insights for Presentation - Write about why/how you chose certain findings over others to put in your explanatory analysis. Highlight the key insights that you want to convey in your explanatory report as well as any changes to visualizations, or note new visualizations that will be created to bridge between your insights.
 
 2.2. Generate Explanatory Data Visualizations
+
 Generate explanatory data visualizations to tell a story about the data you explored. Open the Part_II_slide_deck_template.ipynb template notebook file and finish these tasks:
 
 Add a summary of key insights at the start of the notebook, just as you added in the README.md. This will help your notebook to stay aligned to the key insights you want to include in your slide deck.
