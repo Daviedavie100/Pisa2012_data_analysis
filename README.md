@@ -29,9 +29,7 @@ Explanatory data visualization techniques are used after generating findings and
 
 ## Part 1 - Exploratory Data Analysis
 
-In this part, I will conduct an exploratory data analysis on the pisa2012 dataset using Python data science and data visualization libraries to explore the dataset’s variables and understand the data’s structure, oddities, patterns, and relationships.
-
-The analysis in this part should be structured, going from simple univariate relationships to multivariate relationships, but it does not need to be clean or perfect. There is no single answer that needs to come out of a given dataset. This part of the project is your opportunity to ask questions about the data and make your discoveries. It’s essential to keep in mind that sometimes exploration can lead to dead ends and that it can take multiple steps to dig down to what you’re genuinely looking for. Be patient with your steps, document your work carefully, and be thorough in the perspective that you choose to take with your dataset.
+In this part, I will conduct an exploratory data analysis on the pisa2012 dataset using Python data science and data visualization libraries to explore the dataset’s variables and understand the data’s structure, oddities, patterns, and relationships. The analysis in this case is structured, going from simple univariate relationships to multivariate relationships.
 
 ## Explore your Data
 
