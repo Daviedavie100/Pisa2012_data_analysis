@@ -27,14 +27,6 @@ Exploratory data visualization occurs during and after the data wrangling proces
 Explanatory data visualization techniques are used after generating findings and are used to help communicate results to others. Besides producing good visualizations, this project will also help me be a good consumer of visualizations.
 
 
-What will I learn?
-
-After completing this project, you will be able to:
-
-Supplement statistics with visualizations to build understanding of data.
-Choose appropriate plots, limits, transformations, and aesthetics to explore a dataset, allowing you to understand distributions of variables and relationships between features.
-Use design principles to create effective visualizations for communicating findings to an audience.
-
 ## Part 1 - Exploratory Data Analysis
 
 In this first part, you will conduct an exploratory data analysis on a dataset of your choice. Use Python data science and data visualization libraries to explore the dataset’s variables and understand the data’s structure, oddities, patterns, and relationships.
@@ -111,3 +103,11 @@ Afterward, I introduce the performance of each of the categorical variables one 
 ## Home possessions vs. Score
 
 ![image](https://user-images.githubusercontent.com/7541585/193128370-77da5824-6187-4e5f-85de-f7de65c2acbf.png)
+
+## What I have learnt?
+
+I am able to:
+
+- Supplement statistics with visualizations to build understanding of data.
+- Choose appropriate plots, limits, transformations, and aesthetics to explore a dataset, allowing you to understand distributions of variables and relationships between features.
+- Use design principles to create effective visualizations for communicating findings to an audience.
