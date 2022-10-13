@@ -37,15 +37,8 @@ I will begin with preliminary data wrangling to understand the data structure an
 
 This involves updating the README file, summarising the steps used in data exploration and writing the key Insights for Presentation 
 
-2.2. Generate Explanatory Data Visualizations
-
-Generate explanatory data visualizations to tell a story about the data you explored. Open the Part_II_slide_deck_template.ipynb template notebook file and finish these tasks:
-
-Add a summary of key insights at the start of the notebook, just as you added in the README.md. This will help your notebook to stay aligned to the key insights you want to include in your slide deck.
-Use code that you used in your exploration phase to generate selective and polished plots.
-Make sure that you pay attention to aspects of design integrity in your revisions. Use appropriate plot types, transformations, and encoding. All plots in the presentation should have a title, labeled axes (including units, if any), legend, scale, ticks, and optionally grid in the plot.
-You need to provide at least 3 visualizations to convey key insights, along with descriptive comments which accurately depict their purpose.
-2.3. Create Slide Deck
+- **Generate Explanatory Data Visualizations** I will generate explanatory data visualizations to tell a story about the data explored. 
+- Create Slide Deck
 Now it's time to create a slide deck by converting the notebook file. You need to prepare the notebook for conversion using the steps below:
 
 Add Cell Toolbar - Add a specific Cell Toolbar to each cell in your notebook. To do this, select a cell and click on View > Cell Toolbar > Slideshow.
