@@ -35,10 +35,7 @@ I will begin with preliminary data wrangling to understand the data structure an
 
 ## Part 2 - Explanatory Data Visualization
 
-2.1. Update the README.md
-As you complete the part I of the project, document your findings in a the README.md file available in the template. Particularly, update these sections in the README.md file:
-
-Dataset - Introduce your dataset and document its source. Summarise the steps you took in your data exploration.
+This involves updating the README file, summarising the steps used in data exploration.
 
 Summary of Findings - Summarise your data exploration findings and reflect on the steps you took in your data exploration. Mention whether you plan to bring them into your explanatory presentation or not.
 
