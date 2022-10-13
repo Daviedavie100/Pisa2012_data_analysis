@@ -35,17 +35,10 @@ I will begin with preliminary data wrangling to understand the data structure an
 
 ## Part 2 - Explanatory Data Visualization
 
-This involves updating the README file, summarising the steps used in data exploration and writing the key Insights for Presentation 
+This involves updating the README file, summarising the steps used in data exploration and writing the key Insights for Presentation. Two methods are used in this case; 
 
-- **Generate Explanatory Data Visualizations** I will generate explanatory data visualizations to tell a story about the data explored. 
-- Create Slide Deck
-Now it's time to create a slide deck by converting the notebook file. You need to prepare the notebook for conversion using the steps below:
-
-Add Cell Toolbar - Add a specific Cell Toolbar to each cell in your notebook. To do this, select a cell and click on View > Cell Toolbar > Slideshow.
-
-Choose Slide Type - Assign each cell a Slide Type. Choose Slide for the markdown cells that you want to appear in the slide show, for example, the cells that describe your visualizations. For the code cells that display the visualization, you can choose Sub-Slide. You can choose Skip for the other code cells that don't display visualizations and are not crucial to the presentation.
-
-Convert - Once you're ready to generate your presentation, use nbconvert to export the notebook and set up a server for the slides. In the last code cell, use the following command:
+- **Generating Explanatory Data Visualizations** I will generate explanatory data visualizations to tell a story about the data explored. 
+- **Creating Slide Deck** by converting the notebook file.
 
 ## Dataset
 
