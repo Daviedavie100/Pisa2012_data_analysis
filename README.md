@@ -35,11 +35,7 @@ I will begin with preliminary data wrangling to understand the data structure an
 
 ## Part 2 - Explanatory Data Visualization
 
-This involves updating the README file, summarising the steps used in data exploration.
-
-Summary of Findings - Summarise your data exploration findings and reflect on the steps you took in your data exploration. Mention whether you plan to bring them into your explanatory presentation or not.
-
-Key Insights for Presentation - Write about why/how you chose certain findings over others to put in your explanatory analysis. Highlight the key insights that you want to convey in your explanatory report as well as any changes to visualizations, or note new visualizations that will be created to bridge between your insights.
+This involves updating the README file, summarising the steps used in data exploration and writing the key Insights for Presentation 
 
 2.2. Generate Explanatory Data Visualizations
 
