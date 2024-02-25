@@ -18,7 +18,7 @@ This project has two parts that demonstrate the importance and value of data vis
 - Matplotlib
 - Seaborn
 
-## Why this project?
+## significant of the project-Why this project?
 
 Data visualization is an important skill that is used in many parts of the data analysis process.
 
