@@ -146,11 +146,15 @@ I used faceted heat maps
 
 Performance of male students seems to be positively influenced by teacher-student relations as compared to female students while there are no significant differences in performance in the case of student's sense of belonging to school.
 
+![alt text](image-14.png)
+
 ![alt text](image-9.png)
 
 The relationship between teacher-student relations and a sense of belonging is a linear trend for both males and females as well as among the OECD members and non-members.
 
 ![alt text](image-12.png)
+
+![alt text](image-13.png)
 
 Performance of male students seems to be positively influenced by sense of belonging to school as compared to male students while that of female students seems to be positively influenced by teacher-student relations as compared to male students
 
