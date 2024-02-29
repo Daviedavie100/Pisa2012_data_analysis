@@ -79,6 +79,43 @@ Afterward, I introduce the performance of each of the categorical variables one 
 In this case, I used a donut plot to show different categories within the mother education level column
 ![alt text](image.png)
 
+The majority of the mothers had post-secondary and post-graduate education.
+
+### Question: How many students access computers at home and school and use them?
+I used a bar graphs
+
+![alt text](image-2.png)
+
+The number of students who access and use computers at school and home exceeds those who access and don't use them as well as those who don't have access to computers at all
+
+### Question: What is the distribution of the scores?
+
+I used histogram to check the distribution, normality or skewness of scores per each subject category as well as total_score.
+
+![alt text](image-3.png)
+
+All the distributions for the scores are normal
+
+### Question: What is the distribution of other numeric variables?
+
+I used box plot to maintain the distribution of quantitative variables in the data.
+
+![alt text](image-4.png)
+
+All the numeric columns have outliers. Whereas most of the features are normally distributed, perserverence, attitude of the students towards the school, ICT used at school, and mathematics teacher classroom management are slightly skewed.
+
+## Bivariate Exploration
+
+> This section investigates relationships between pairs of variables in the data. The distribution of all the variables under this section has been explored under univariate exploration. Heatmaps, bar plots, regplots, violin plots, and box plots are used in this section.
+
+### Question: What is the total number of students who access and use a computer at school and home?
+
+I used heatmap to show relationships between the use of home desktop computer and school desktop computer by students.
+
+![alt text](image-5.png)
+
+The number of students who access and use computers is 42043, which is higher than those who don't use a computer at home whether they access the computers or not.
+
 ## Socio-Economic and Social status index vs. Performance
 
 ![image](https://user-images.githubusercontent.com/7541585/193127426-dc8c5f46-971f-44ef-a5b7-b4601b4d7769.png)
@@ -86,6 +123,38 @@ In this case, I used a donut plot to show different categories within the mother
 ## Home possessions vs. Score
 
 ![image](https://user-images.githubusercontent.com/7541585/193128370-77da5824-6187-4e5f-85de-f7de65c2acbf.png)
+
+### Question: How does the use of a school desktop computer affect scores for different ages?
+
+I used point plot
+
+![alt text](image-6.png)
+
+Students who have no access to computer have constant low scores across all grades.
+
+### Question: How does the use of a school desktop computer affect scores for different ages?
+
+![alt text](image-7.png)
+
+Male students in grade 7 performed lower than those in grade 12 compared to their female counterparts. There is no significant difference in scores among female and male students in the other grades.
+
+### Question: How do teacher-student relations and students' sense of belonging to school among affect gender performance?
+
+I used faceted heat maps
+
+![alt text](image-8.png)
+
+Performance of male students seems to be positively influenced by teacher-student relations as compared to female students while there are no significant differences in performance in the case of student's sense of belonging to school.
+
+![alt text](image-9.png)
+
+![alt text](image-10.png)
+
+The relationship between teacher-student relations and a sense of belonging is a linear trend for both males and females as well as among the OECD members and non-members.
+
+![alt text](image-12.png)
+
+Performance of male students seems to be positively influenced by sense of belonging to school as compared to male students while that of female students seems to be positively influenced by teacher-student relations as compared to male students
 
 ## What I have learnt?
 
