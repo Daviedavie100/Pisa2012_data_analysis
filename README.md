@@ -31,7 +31,7 @@ Explanatory data visualization techniques are used after generating findings and
 
 In this part, I will perform an exploratory data analysis on the **_pisa2012_** dataset using Python and data visualization libraries. The aim is to explore the variables in the dataset, comprehend the data structure, oddities, patterns, and relationships. This analysis follows a structured path, starting with basic univariate relationships and ending with multivariate relationships.
 
-I will begin with preliminary data wrangling to understand the data structure and brainstorm some more questions and record which features are of interest to the investigation and those which will help support that investigation. I will adopt the _Question-Visualization-Observations_ framework, which involves asking a question from the data, creating a visualization to find answers, and then recording observations and systematically follow Univariate, Bivariate, and Multivariate Data Exploration.
+I will begin with preliminary data wrangling to understand the data structure and brainstorm some more questions and record which features are of interest to the investigation and those which will help support that investigation. I will adopt the **_Question-Visualization-Observations_** framework, which involves asking a question from the data, creating a visualization to find answers, and then recording observations and systematically follow Univariate, Bivariate, and Multivariate Data Exploration.
 
 ## Part 2 - Explanatory Data Visualization
 
