@@ -18,18 +18,18 @@ This project has two parts that demonstrate the importance and value of data vis
 - Matplotlib
 - Seaborn
 
-## significant of the project-Why this project?
+## Significant of the project - Why this project?
 
 Data visualization is an important skill that is used in many parts of the data analysis process.
 
 Exploratory data visualization occurs during and after the data wrangling process and is the main method that is used to understand the patterns and relationships present in the data. This understanding helps in statistical analysis, building conclusions, and findings. During this process, additional data cleaning will still be performed.
 
-Explanatory data visualization techniques are used after generating findings and are used to help communicate results to others. Besides producing good visualizations, this project will also help me be a good consumer of visualizations.
+Explanatory data visualization techniques are used after generating findings and are used to help communicate results to others. Besides producing good visualizations, this project will also help one to be a good consumer of visualizations.
 
 
 ## Part 1 - Exploratory Data Analysis
 
-In this part, I will conduct an exploratory data analysis on the pisa2012 dataset using Python data science and data visualization libraries to explore the dataset’s variables and understand the data’s structure, oddities, patterns, and relationships. The analysis in this case is structured, going from simple univariate relationships to multivariate relationships.
+In this part, I will perform an exploratory data analysis on the **_pisa2012_** dataset using Python and data visualization libraries. The aim is to explore the variables in the dataset, comprehend the data structure, oddities, patterns, and relationships. This analysis follows a structured path, starting with basic univariate relationships and ending with multivariate relationships.
 
 I will begin with preliminary data wrangling to understand the data structure and brainstorm some more questions and record which features are of interest to the investigation and those which will help support that investigation. I will adopt the _Question-Visualization-Observations_ framework, which involves asking a question from the data, creating a visualization to find answers, and then recording observations and systematically follow Univariate, Bivariate, and Multivariate Data Exploration.
 
