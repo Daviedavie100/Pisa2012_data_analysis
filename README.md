@@ -35,10 +35,9 @@ I will begin with preliminary data wrangling to understand the data structure an
 
 ## Part 2 - Explanatory Data Visualization
 
-This involves updating the README file, summarising the steps used in data exploration and writing the key Insights for Presentation. Two methods are used in this case; 
+This involves updating the README file, summarising the steps used in data exploration and writing the key _Insights_ for Presentation. 
 
-- **Generating Explanatory Data Visualizations** I will generate explanatory data visualizations to tell a story about the data explored. 
-- **Creating Slide Deck** by converting the notebook file.
+Two methods are used in this case: (a) **Generating Explanatory Data Visualizations** where I will generate explanatory data visualizations to tell a story about the data explored and (b) **Creating Slide Deck** by converting the notebook file.
 
 ## Dataset
 
