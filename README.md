@@ -148,8 +148,6 @@ Performance of male students seems to be positively influenced by teacher-studen
 
 ![alt text](image-9.png)
 
-![alt text](image-10.png)
-
 The relationship between teacher-student relations and a sense of belonging is a linear trend for both males and females as well as among the OECD members and non-members.
 
 ![alt text](image-12.png)
