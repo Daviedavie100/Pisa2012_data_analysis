@@ -33,6 +33,10 @@ In this part, I will perform an exploratory data analysis on the **_pisa2012_** 
 
 I will begin with preliminary data wrangling to understand the data structure and brainstorm some more questions and record which features are of interest to the investigation and those which will help support that investigation. I will adopt the **_Question-Visualization-Observations_** framework, which involves asking a question from the data, creating a visualization to find answers, and then recording observations and systematically follow Univariate, Bivariate, and Multivariate Data Exploration.
 
+## Univariate Exploration
+
+> This section investigates the distributions of individual variables for unusual points or outliers. The features of interest are divided into two, categorical and numeric variables. For categorical variables, count plots, pie charts, donut plots, waffle counts, and bar graphs are used. The distributions of numeric variables of interest are investigated using histogram, and box plots.
+
 ## Part 2 - Explanatory Data Visualization
 
 This involves updating the README file, summarising the steps used in data exploration and writing the key _Insights_ for Presentation. 
@@ -69,6 +73,11 @@ At first, I introduce the distribution of scores on a histogram plot followed by
 I then introduce counts for the parent level of education using a donut chart for the father's education and waffle counts for the mother's education level. I also create a bar plot for the percentage proportion of students who took the Pisa test per grade and then I compare the counts for home and school desktop computer usage on a heatmap followed by the scatterplot pattern for numeric attributes that affect student scores in different regions.
  
 Afterward, I introduce the performance of each of the categorical variables one by one and pairwise. To start, I use the bar plots for gender, OECD, and country performance. I then use a point plot to compare if there are any variations in performance between gender and grade, and between grade and school computer usage. I also examine whether perseverance, teacher-student relations, and a sense of belonging to school affect gender scores using hist2d and lmplot, and finally whether parent level of education influences student scores. I've made sure to use different color palettes for each quality variable to make sure it is clear that they're different between plots.
+
+### Question: What is the percentage proportion for the level of education for the mother?
+
+In this case, I used a donut plot to show different categories within the mother education level column
+![alt text](image.png)
 
 ## Socio-Economic and Social status index vs. Performance
 
