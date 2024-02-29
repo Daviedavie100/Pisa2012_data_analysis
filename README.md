@@ -45,6 +45,11 @@ The pisa2012 data, is a csv file is contained in a compressed zip file. The csv 
 
 International Student Assessment (PISA) is a program initiated by OECD member states to measure how well 15-year-old students at the end of their compulsory schooling are prepared to address today’s challenges affecting societies. The assessment takes place after every three years and only focuses on the student's ability to use the skills and knowledge acquired at school to solve real-life challenges. PISA is an age-based survey, assessing 15-year-old students in school in grade 7 or higher. About 510,000 students in 65 economies took part in the PISA 2012 assessment of reading, mathematics, science, and financial literacy representing about 28 million 15-year-olds globally. The database also includes students' responses to Questionnaires that they completed as part of the assessment. Of those economies, 44 took part in an assessment of creative problem solving and 18 in an assessment of financial literacy.[here](https://www.oecd.org/pisa/pisaproducts/PISA-2012-technical-report-final.pdf)
 
+## Data Wrangling
+
+This involves gathering, assessing and cleaning the data
+
+> **_Assessing Data_** where the data is assessed visually and programmatically for quality and tidiness issues. **Quality issues** are issues related to the data content (dirty data). We check for four quality diemnsions, completeness, validity, accuracy and consistency. **Tidiness issues** are issues related to the data structure (messy data). We check whether or not each variable forms a column, each observation forms a row or each type of observational unit forms a table
 
 ## Summary of Findings
 
